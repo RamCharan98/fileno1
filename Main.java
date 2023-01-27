@@ -10,7 +10,7 @@ class Main {
             System.out.println("Week: " + i);
 
             // inner loop
-            for (int j = 2; j <= days; ++j) {
+            for (int j = 1; j <= days; ++j) {
                 System.out.println("  Days: " + j);
             }
             ++i;
